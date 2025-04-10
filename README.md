@@ -1,1 +1,1 @@
-simple game using python
+simple game using javascript, html, css
